@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Below you'll find information about my publication
 ### 🐍 Python Packages
 - **pso-optimizer** [pso-optimizer](https://pypi.org/project/pso-optimizer/)
 
-### 🚀 Projects
+### 🚀 Datasets
 - **EPL-Scraping Data**  [Kaggle](https://www.kaggle.com/datasets/mertbayraktar/english-premier-league-matches-20232024-season)
 
 Feel free to reach out if you have questions or if you want to collaborate on a project!
