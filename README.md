@@ -1,6 +1,3 @@
-### 👋 Hi there
-
-Welcome to my GitHub profile! Below you'll find information about my publications, competitive achievements on Kaggle, and Python packages I've developed.
 
 ### 📜 Publications
 - **Swarm Optimization-Based Hyperparameter Selection for Machine Learning Algorithms in Indoor Localization** [Read the paper here](https://ieeexplore.ieee.org/document/10286800)
