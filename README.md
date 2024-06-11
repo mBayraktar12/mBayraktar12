@@ -3,7 +3,7 @@
 - **Swarm Optimization-Based Hyperparameter Selection for Machine Learning Algorithms in Indoor Localization** [Read the paper here](https://ieeexplore.ieee.org/document/10286800)
 
 ### 🏆Global Kaggle Competitions
-- **PS S4E3 Steel Plate Prediction 4th/2199 Top %0.002** [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e3/leaderboard)
+- **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e3/leaderboard)
 - **BirdCLEF 2024 39th/991 Top %4** [Kaggle](https://www.kaggle.com/competitions/birdclef-2024/leaderboard)
 
 ### 🏆Local Kaggle Competitions
