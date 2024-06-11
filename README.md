@@ -7,6 +7,7 @@ Welcome to my GitHub profile! Below you'll find information about my publication
 
 ### 🏆Global Kaggle Competitions
 - **PS S4E3 Steel Plate Prediction 4th/2199** [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e3/leaderboard)
+- **BirdCLEF 2024** 39th/991 Top %4 [Kaggle](https://www.kaggle.com/competitions/birdclef-2024/leaderboard)
 
 ### 🏆Local Kaggle Competitions
 - **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals)** [Kaggle link will be added]
