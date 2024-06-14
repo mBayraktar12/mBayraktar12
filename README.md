@@ -7,7 +7,7 @@
 - **BirdCLEF 2024 39th/991 Top %5** [Kaggle](https://www.kaggle.com/competitions/birdclef-2024/leaderboard)
 
 ### 🏆Local Kaggle Competitions
-- **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) [Github](https://github.com/mBayraktar12/gdz-elektrik-datathon-2024)
+- **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) - [Github](https://github.com/mBayraktar12/gdz-elektrik-datathon-2024)
 
 ### 🐍 Python Packages
 - **pso-optimizer** [pso-optimizer](https://pypi.org/project/pso-optimizer/)
