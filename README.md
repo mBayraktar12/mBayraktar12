@@ -1,6 +1,7 @@
 
 ### 📜 Publications
 - **Swarm Optimization-Based Hyperparameter Selection for Machine Learning Algorithms in Indoor Localization** [Read the paper here](https://ieeexplore.ieee.org/document/10286800)
+- **Indoor Localization with GravNetConv and Dynamic Graphs** [Read the paper here](https://ieeexplore.ieee.org/abstract/document/10773531/authors#authors)
 
 ### 🏆Global Kaggle Competitions
 - **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost)
