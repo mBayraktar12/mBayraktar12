@@ -14,7 +14,7 @@
 - **Child Mind Institute — Problematic Internet Use Top %10** [Kaggle LB](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/leaderboard) - [Github](https://github.com/mBayraktar12/CMI-2024/tree/main)
 
 ### 🏆Local Kaggle Competitions
-- **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) - [Github](https://github.com/mBayraktar12/gdz-elektrik-datathon-2024)
+- **GDZ Elektrik Datathon 2024 - Final 14th/184 (First 10 after finals) (Top %5)** [Kaggle](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2024/leaderboard) - [Github](https://github.com/mBayraktar12/gdz-elektrik-datathon-2024)
 - **BTK Datathon 2024 - Public 8th/364 (Top %2) / Private 21th/364 (Top % 6)** [Kaggle](https://www.kaggle.com/competitions/datathon-2024/leaderboard)
 
 ### 🐍 Python Packages
