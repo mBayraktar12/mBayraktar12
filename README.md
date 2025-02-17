@@ -5,7 +5,7 @@
 
 ### 🏆Global Kaggle Competitions
 - **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle LB](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost)
-- **Rohlik Sales Forecasting Challenge 30th/777 Top %4**[Kaggle LB](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/leaderboard)[Github]()
+- **Rohlik Sales Forecasting Challenge 30th/777 Top %4** [Kaggle LB](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/leaderboard)[Github]()
 - **BirdCLEF 2024 39th/991 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/birdclef-2024/leaderboard)
 - **BrisT1D Blood Glucose Prediction Competition 30th/634 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/brist1d/leaderboard)
 - **NeurIPS 2024 - Predict New Medicines with BELKA Top %7** [Kaggle LB](https://www.kaggle.com/competitions/leash-BELKA/leaderboard) - [Github](https://github.com/mBayraktar12/NeurIPS-2024---Predict-New-Medicines-with-BELKA)
