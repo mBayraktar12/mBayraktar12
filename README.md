@@ -4,6 +4,7 @@
 - **Indoor Localization with GravNetConv and Dynamic Graphs** [Read the paper here](https://ieeexplore.ieee.org/abstract/document/10773531/authors#authors)
 
 ### 🏆Global Kaggle Competitions
+- **#chydv Hackathon 2025 1st/47**[Kaggle LB](https://www.kaggle.com/competitions/chydv-hackathon-2025/leaderboard) - [Github]()
 - **PS S4E3 Steel Plate Prediction 4th/2199 Top %1** [Kaggle LB](https://www.kaggle.com/code/mertbayraktar/eda-0-87932-playground-series-s4e3#7.-Feature-Importance-Analysis-for-XGBoost)
 - **Rohlik Sales Forecasting Challenge 30th/777 Top %4** [Kaggle LB](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/leaderboard) - [Github]()
 - **BirdCLEF 2024 39th/991 Top %5** [Kaggle LB](https://www.kaggle.com/competitions/birdclef-2024/leaderboard)
